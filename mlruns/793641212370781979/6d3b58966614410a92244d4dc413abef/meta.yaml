@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/793641212370781979/6d3b58966614410a92244d4dc413abef/artifacts
+end_time: 1732404072646
+entry_point_name: ''
+experiment_id: '793641212370781979'
+lifecycle_stage: active
+run_id: 6d3b58966614410a92244d4dc413abef
+run_name: wise-kit-784
+run_uuid: 6d3b58966614410a92244d4dc413abef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732404072506
+status: 3
+tags: []
+user_id: wasiuyusuf
