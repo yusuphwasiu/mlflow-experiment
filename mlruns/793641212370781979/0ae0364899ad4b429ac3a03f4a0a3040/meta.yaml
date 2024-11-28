@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/793641212370781979/0ae0364899ad4b429ac3a03f4a0a3040/artifacts
+end_time: 1732755201362
+entry_point_name: ''
+experiment_id: '793641212370781979'
+lifecycle_stage: active
+run_id: 0ae0364899ad4b429ac3a03f4a0a3040
+run_name: marvelous-koi-421
+run_uuid: 0ae0364899ad4b429ac3a03f4a0a3040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732755201297
+status: 3
+tags: []
+user_id: wasiuyusuf
