@@ -212,6 +212,7 @@ poetry.toml
 .ruff_cache/
 
 *.trash
+mlruns/
 
 # LSP config files
 pyrightconfig.json
